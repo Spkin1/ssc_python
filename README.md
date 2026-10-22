@@ -32,7 +32,7 @@ The project is structured into five distinct, decoupled blocks:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/analytics-with-python.git
+git clone https://github.com/your-username/ssc_python.git
 cd analytics-with-python
 ```
 
